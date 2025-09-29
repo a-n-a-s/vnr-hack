@@ -1,18 +1,12 @@
 import type { Metadata } from "next";
-import {  Montserrat  , Figtree} from "next/font/google";
+import { Montserrat, Figtree } from "next/font/google";
 import "./globals.css";
-
-
-const montserrat = Montserrat({
-  variable: "--font-montserrat",
-  weight: "400",
-});
+import AuthInit from "@/providers/AuthInit";
 
 const figtree = Figtree({
   variable: "--font-figtree",
   weight: "400",
 });
-
 
 
 export const metadata: Metadata = {
@@ -30,7 +24,11 @@ export default function RootLayout({
       <body
         className={`  ${figtree.className} antialiased`}
       >
-        {children}
+        <AuthInit/>
+
+          {children}
+        
+
       </body>
     </html>
   );

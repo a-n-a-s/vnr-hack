@@ -5,7 +5,7 @@ from routes import auth, user
 app = FastAPI()
 
 # For Next.js frontend
-origins = ["http://localhost:3000"]
+origins = ["*"]
 
 app.add_middleware(
     CORSMiddleware,
