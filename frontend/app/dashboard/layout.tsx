@@ -19,13 +19,11 @@ const DashboardLayout = ({ children }: { children: React.ReactNode }) => {
     if (loading) return <p>Loading...</p>;
     if (!user) return null;
     return (
-        <div className='flex'>
-            <div className='w-1/5'>
-
+        <div className='flex h-screen'>
+            <div className='w-1/5 h-screen sticky top-0'>
                 <Sidebar />
             </div>
-            <div>
-
+            <div className='w-full h-screen overflow-y-auto'>
                 {children}
             </div>
         </div>

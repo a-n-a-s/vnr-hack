@@ -83,9 +83,9 @@ const Sidebar = () => {
   const isActive = (path: string) => pathname === path;
 
   return (
-    <div className='w-full h-screen bg-white px-10 py-10 flex flex-col'>
+    <div className='w-full h-screen bg-white px-10 py-10 flex flex-col sticky top-0 overflow-y-auto'>
       {/* Logo */}
-      <div className='font-bold text-2xl md:text-3xl text-green-900'>
+      <div className='font-bold text-2xl md:text-3xl text-green-800'>
         <Link href='/dashboard'>EvoBank</Link>
       </div>
 
@@ -116,8 +116,8 @@ const Sidebar = () => {
       <div
         className={`flex items-start justify-start mt-auto h-12 text-green-800 rounded-md w-full transition-colors duration-200 px-4 py-2 ${
           isActive('/dashboard/logout')
-            ? 'bg--100 text-green-700 font-semibold'
-            : 'hover:bg-red-500 hover:text-white'
+            ? 'bg-green-100 text-green-700 font-semibold'
+            : 'hover:bg-red-100 hover:text-red-700'
         }`}
       >
         <Link

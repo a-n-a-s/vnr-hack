@@ -31,11 +31,13 @@ const Header = () => {
           <ul className='mb-2 md:mb-0 md:mr-4 text-center w-full'><a href="#" className="hover:underline text-green-900">FAQ</a></ul>
         </div>
 
-        <div className='flex flex-col font-semibold md:flex-row items-center justify-between w-1/3 md:w-1/4 mt-4 md:mt-0'>
+        <div className='flex flex-col font-semibold md:flex-row items-center justify-between w-1/3 md:w-1/5 mt-4 md:ml-16 md:mt-0'>
           <Link href="/login">
-            <ul className='mb-2 md:mb-0 text-center w-full'><a href="#" className="hover:underline text-green-900">Login</a></ul>
+            <ul className='mb-2 md:mb-0 text-center w-full'><span  className="hover:underline text-green-900">Login</span></ul>
           </Link>
-          <ul className='text-center w-full'><a href="#" className="hover:underline text-green-900 bg-[#D0F0F3] rounded-md px-4 py-2">Register</a></ul>
+          <Link href="/register">
+            <ul className='text-center w-full'><span  className="hover:underline text-green-900 bg-[#D0F0F3] rounded-md px-4 py-2">Register</span></ul>
+          </Link>
         </div>
       </div>
     </div>
