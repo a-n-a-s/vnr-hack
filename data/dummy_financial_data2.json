@@ -1,0 +1,1405 @@
+{
+  "banks": [
+    {
+      "bankName": "HDFC",
+      "accountNumber": "8686890751",
+      "balance": "692.02",
+      "transactions": [
+        {
+          "date": "2024-10-06T15:14:52.945Z",
+          "type": "credit",
+          "amount": "418.34",
+          "description": "payment confirmed at Koch Inc for SGD 657.38, card ending in ****6527 associated with account ***3340."
+        },
+        {
+          "date": "2024-10-12T01:33:18.007Z",
+          "type": "debit",
+          "amount": "754.05",
+          "description": "Transaction alert: invoice at Kuhlman - Reinger using card ending ****6766 for an amount of AFN 179.38 on account ***5111."
+        },
+        {
+          "date": "2024-10-16T00:57:10.625Z",
+          "type": "debit",
+          "amount": "553.49",
+          "description": "deposit at Breitenberg, Lind and Wintheiser with a card ending in ****3161 for MKD 191.74 from account ***6045."
+        },
+        {
+          "date": "2024-10-16T23:17:05.655Z",
+          "type": "debit",
+          "amount": "990.50",
+          "description": "A deposit for UGX 204.25 was made at Gibson, Treutel and Stokes via card ending ****6714 on account ***0202."
+        },
+        {
+          "date": "2024-10-17T04:13:43.116Z",
+          "type": "credit",
+          "amount": "57.23",
+          "description": "Payment of MWK 149.08 for withdrawal at Bechtelar, Welch and Crist, processed with card ending ****6430 linked to account ***4086."
+        },
+        {
+          "date": "2024-10-19T00:06:35.781Z",
+          "type": "credit",
+          "amount": "522.42",
+          "description": "A withdrawal for VUV 447.77 was made at Abshire Group via card ending ****5740 on account ***4885."
+        },
+        {
+          "date": "2024-10-30T12:12:22.507Z",
+          "type": "debit",
+          "amount": "486.08",
+          "description": "Payment of KMF 112.92 for invoice at Legros - Schuster, processed with card ending ****9201 linked to account ***3590."
+        },
+        {
+          "date": "2024-11-07T07:03:13.475Z",
+          "type": "credit",
+          "amount": "721.50",
+          "description": "withdrawal transaction at Nicolas, Hagenes and Nienow using card ending with ****5476 for AOA 872.65 in account ***6263."
+        },
+        {
+          "date": "2024-11-11T04:37:46.204Z",
+          "type": "credit",
+          "amount": "198.74",
+          "description": "You made a withdrawal of KGS 556.15 at Smith, Cartwright and Veum using card ending in ****2597 from account ***0603."
+        },
+        {
+          "date": "2024-11-13T05:19:03.615Z",
+          "type": "debit",
+          "amount": "248.37",
+          "description": "payment processed at Connelly Inc for JMD 709.28, using card ending ****1382. Account: ***1532."
+        },
+        {
+          "date": "2024-11-14T11:01:29.970Z",
+          "type": "credit",
+          "amount": "804.06",
+          "description": "You made a payment of GMD 117.40 at Kuhlman, Schmitt and Bradtke using card ending in ****0816 from account ***7090."
+        },
+        {
+          "date": "2024-12-01T00:54:46.838Z",
+          "type": "debit",
+          "amount": "746.23",
+          "description": "deposit of UGX 604.41 at Hayes - Murray charged to account ending in 2856 using card ending in ****0621."
+        },
+        {
+          "date": "2024-12-04T21:22:30.119Z",
+          "type": "credit",
+          "amount": "911.84",
+          "description": "payment at Gusikowski - Cremin with a card ending in ****9026 for LBP 214.62 from account ***9780."
+        },
+        {
+          "date": "2024-12-11T23:45:45.274Z",
+          "type": "credit",
+          "amount": "366.03",
+          "description": "payment processed at Yundt - Halvorson for SOS 956.67, using card ending ****8390. Account: ***0254."
+        },
+        {
+          "date": "2024-12-12T23:44:24.025Z",
+          "type": "credit",
+          "amount": "434.05",
+          "description": "You made a invoice of SRD 224.40 at Treutel, Wuckert and Kertzmann using card ending in ****2015 from account ***0588."
+        },
+        {
+          "date": "2024-12-17T06:35:41.772Z",
+          "type": "debit",
+          "amount": "955.86",
+          "description": "deposit processed at Kutch, Torp and Stroman for CDF 735.54, using card ending ****6322. Account: ***9928."
+        },
+        {
+          "date": "2025-01-14T16:52:54.595Z",
+          "type": "debit",
+          "amount": "343.09",
+          "description": "You made a invoice of VES 488.84 at Beatty - Schmidt using card ending in ****2389 from account ***7195."
+        },
+        {
+          "date": "2025-01-25T14:50:36.327Z",
+          "type": "credit",
+          "amount": "296.30",
+          "description": "payment processed at Kilback - Quitzon for WST 138.77, using card ending ****3128. Account: ***8953."
+        },
+        {
+          "date": "2025-01-31T11:32:23.365Z",
+          "type": "debit",
+          "amount": "740.93",
+          "description": "You made a withdrawal of KHR 389.68 at Gusikowski Inc using card ending in ****5889 from account ***0280."
+        },
+        {
+          "date": "2025-02-04T04:24:59.026Z",
+          "type": "debit",
+          "amount": "120.76",
+          "description": "Transaction alert: withdrawal at Schultz and Sons using card ending ****4689 for an amount of KRW 205.48 on account ***1109."
+        },
+        {
+          "date": "2025-02-07T15:27:39.983Z",
+          "type": "debit",
+          "amount": "467.37",
+          "description": "Transaction alert: deposit at Rohan - Harber using card ending ****1777 for an amount of MWK 433.92 on account ***6357."
+        },
+        {
+          "date": "2025-02-20T21:59:56.040Z",
+          "type": "debit",
+          "amount": "750.52",
+          "description": "Transaction alert: payment at Vandervort - Mante using card ending ****0008 for an amount of BHD 594.69 on account ***5629."
+        },
+        {
+          "date": "2025-03-02T03:24:58.089Z",
+          "type": "debit",
+          "amount": "193.49",
+          "description": "A payment for MMK 585.08 was made at Ledner Inc via card ending ****5406 on account ***4841."
+        },
+        {
+          "date": "2025-03-15T22:50:05.861Z",
+          "type": "credit",
+          "amount": "749.27",
+          "description": "invoice processed at Streich, Schowalter and Hudson for MWK 696.86, using card ending ****6094. Account: ***4408."
+        },
+        {
+          "date": "2025-04-13T05:26:46.534Z",
+          "type": "debit",
+          "amount": "581.27",
+          "description": "withdrawal confirmed at Schinner Group for SDG 870.93, card ending in ****5522 associated with account ***1650."
+        },
+        {
+          "date": "2025-04-14T15:07:15.278Z",
+          "type": "debit",
+          "amount": "990.40",
+          "description": "You made a deposit of LYD 387.35 at Rempel - Gorczany using card ending in ****1239 from account ***6451."
+        },
+        {
+          "date": "2025-05-03T00:44:32.623Z",
+          "type": "debit",
+          "amount": "141.03",
+          "description": "deposit processed at Olson - Pagac for DOP 180.15, using card ending ****9856. Account: ***7818."
+        },
+        {
+          "date": "2025-05-07T04:28:42.044Z",
+          "type": "credit",
+          "amount": "613.05",
+          "description": "Your withdrawal of IQD 447.42 at Bernhard - Bartell was successful. Charged via card ****0005 to account ***5300."
+        },
+        {
+          "date": "2025-05-11T13:48:46.419Z",
+          "type": "credit",
+          "amount": "367.48",
+          "description": "Your withdrawal of CDF 24.32 at Johnson, Muller and West was successful. Charged via card ****3306 to account ***7053."
+        },
+        {
+          "date": "2025-05-14T09:04:59.496Z",
+          "type": "credit",
+          "amount": "702.12",
+          "description": "You made a invoice of MUR 798.43 at Ebert and Sons using card ending in ****9924 from account ***6607."
+        },
+        {
+          "date": "2025-05-24T02:39:02.362Z",
+          "type": "debit",
+          "amount": "873.65",
+          "description": "You made a invoice of ISK 294.75 at Schaden, Schmitt and Abshire using card ending in ****8855 from account ***7053."
+        },
+        {
+          "date": "2025-06-05T06:12:49.126Z",
+          "type": "credit",
+          "amount": "553.10",
+          "description": "Payment of ILS 759.06 for invoice at Kozey, Anderson and Roob, processed with card ending ****4668 linked to account ***3191."
+        },
+        {
+          "date": "2025-06-14T01:51:19.257Z",
+          "type": "credit",
+          "amount": "212.32",
+          "description": "Transaction alert: invoice at Durgan Group using card ending ****7263 for an amount of QAR 157.94 on account ***0344."
+        },
+        {
+          "date": "2025-06-15T18:08:05.067Z",
+          "type": "credit",
+          "amount": "101.27",
+          "description": "payment of BDT 309.78 at Bernier - Collier charged to account ending in 4606 using card ending in ****1973."
+        },
+        {
+          "date": "2025-06-26T19:17:48.701Z",
+          "type": "credit",
+          "amount": "965.54",
+          "description": "Payment of MYR 802.75 for invoice at Hoeger, Pfannerstill and Jaskolski, processed with card ending ****8848 linked to account ***1532."
+        },
+        {
+          "date": "2025-07-01T23:48:31.309Z",
+          "type": "credit",
+          "amount": "132.31",
+          "description": "Transaction alert: invoice at Dickinson LLC using card ending ****7805 for an amount of HNL 831.77 on account ***6017."
+        },
+        {
+          "date": "2025-07-02T23:27:41.083Z",
+          "type": "debit",
+          "amount": "883.13",
+          "description": "payment transaction at Kulas Inc using card ending with ****4613 for PEN 63.75 in account ***8703."
+        },
+        {
+          "date": "2025-07-07T07:08:45.152Z",
+          "type": "debit",
+          "amount": "535.69",
+          "description": "Your deposit of TZS 916.38 at Kuhic, Glover and Towne was successful. Charged via card ****8051 to account ***4459."
+        },
+        {
+          "date": "2025-07-20T13:09:35.292Z",
+          "type": "debit",
+          "amount": "476.95",
+          "description": "A withdrawal for DJF 122.48 was made at Metz, Littel and Beahan via card ending ****0010 on account ***0559."
+        },
+        {
+          "date": "2025-07-22T02:41:01.127Z",
+          "type": "debit",
+          "amount": "902.09",
+          "description": "withdrawal of CAD 435.60 at Pfannerstill Inc charged to account ending in 9422 using card ending in ****8471."
+        },
+        {
+          "date": "2025-07-22T20:26:43.262Z",
+          "type": "credit",
+          "amount": "749.35",
+          "description": "withdrawal confirmed at Nikolaus and Sons for KWD 745.69, card ending in ****1187 associated with account ***7205."
+        },
+        {
+          "date": "2025-07-29T19:42:26.974Z",
+          "type": "credit",
+          "amount": "951.32",
+          "description": "A invoice of BBD 339.66 occurred at Stehr, Prosacco and Farrell using a card ending in ****1409 for account ***8699."
+        },
+        {
+          "date": "2025-08-05T16:58:29.749Z",
+          "type": "credit",
+          "amount": "894.99",
+          "description": "payment confirmed at Lockman - Volkman for UYU 653.37, card ending in ****4271 associated with account ***3232."
+        },
+        {
+          "date": "2025-08-09T23:48:10.119Z",
+          "type": "debit",
+          "amount": "257.89",
+          "description": "invoice transaction at Larson Group using card ending with ****3145 for COP 589.98 in account ***1335."
+        },
+        {
+          "date": "2025-08-21T10:41:02.963Z",
+          "type": "debit",
+          "amount": "648.83",
+          "description": "withdrawal of UZS 885.62 at Stamm - Brakus charged to account ending in 4410 using card ending in ****6181."
+        },
+        {
+          "date": "2025-08-26T11:29:50.005Z",
+          "type": "debit",
+          "amount": "890.06",
+          "description": "A deposit for CVE 359.07 was made at Kilback - Weissnat via card ending ****7714 on account ***2827."
+        },
+        {
+          "date": "2025-09-08T10:49:26.223Z",
+          "type": "debit",
+          "amount": "143.66",
+          "description": "deposit of SOS 458.56 at Hyatt Group charged to account ending in 6400 using card ending in ****8638."
+        },
+        {
+          "date": "2025-09-12T18:54:05.992Z",
+          "type": "debit",
+          "amount": "699.89",
+          "description": "withdrawal at Blick - Ritchie with a card ending in ****6431 for GNF 689.32 from account ***3098."
+        },
+        {
+          "date": "2025-09-18T08:56:42.042Z",
+          "type": "debit",
+          "amount": "506.14",
+          "description": "Your invoice of KES 4.69 at Ullrich Group was successful. Charged via card ****0926 to account ***8469."
+        },
+        {
+          "date": "2025-09-21T19:48:08.830Z",
+          "type": "credit",
+          "amount": "107.98",
+          "description": "A payment for FKP 309.11 was made at Runolfsdottir - Kovacek via card ending ****0447 on account ***4390."
+        }
+      ]
+    },
+    {
+      "bankName": "ICICI",
+      "accountNumber": "5898929762",
+      "balance": "517.65",
+      "transactions": [
+        {
+          "date": "2024-10-02T23:51:26.051Z",
+          "type": "credit",
+          "amount": "450.73",
+          "description": "A deposit of RWF 785.53 occurred at Beier LLC using a card ending in ****6095 for account ***7125."
+        },
+        {
+          "date": "2024-10-05T06:37:52.608Z",
+          "type": "credit",
+          "amount": "410.35",
+          "description": "withdrawal processed at Corkery - Farrell for TZS 832.45, using card ending ****0061. Account: ***1972."
+        },
+        {
+          "date": "2024-10-12T14:34:36.847Z",
+          "type": "debit",
+          "amount": "667.80",
+          "description": "Transaction alert: deposit at Schumm, Harris and Anderson using card ending ****8996 for an amount of EGP 338.98 on account ***3894."
+        },
+        {
+          "date": "2024-10-22T13:38:07.918Z",
+          "type": "debit",
+          "amount": "485.39",
+          "description": "Your payment of BOB 634.34 at Nikolaus, Pollich and Dare was successful. Charged via card ****5442 to account ***5405."
+        },
+        {
+          "date": "2024-11-10T07:16:58.844Z",
+          "type": "credit",
+          "amount": "416.47",
+          "description": "deposit transaction at Marks, Maggio and Murphy using card ending with ****7303 for SGD 158.40 in account ***6631."
+        },
+        {
+          "date": "2024-11-12T16:53:21.536Z",
+          "type": "debit",
+          "amount": "642.20",
+          "description": "withdrawal processed at Hammes - Hansen for CHF 289.62, using card ending ****0678. Account: ***2605."
+        },
+        {
+          "date": "2024-11-15T11:44:53.304Z",
+          "type": "credit",
+          "amount": "763.84",
+          "description": "A payment of DJF 666.57 occurred at Nolan Group using a card ending in ****8958 for account ***9441."
+        },
+        {
+          "date": "2024-11-24T18:34:20.655Z",
+          "type": "debit",
+          "amount": "118.87",
+          "description": "deposit at McDermott LLC with a card ending in ****0272 for MUR 765.07 from account ***2827."
+        },
+        {
+          "date": "2024-11-27T16:49:37.408Z",
+          "type": "credit",
+          "amount": "489.60",
+          "description": "invoice confirmed at Hahn Inc for ALL 920.55, card ending in ****0832 associated with account ***0476."
+        },
+        {
+          "date": "2024-11-29T06:35:59.276Z",
+          "type": "debit",
+          "amount": "498.54",
+          "description": "Your payment of VES 0.30 at Doyle - Hodkiewicz was successful. Charged via card ****6264 to account ***2410."
+        },
+        {
+          "date": "2024-11-30T03:11:40.808Z",
+          "type": "credit",
+          "amount": "361.49",
+          "description": "You made a withdrawal of MXN 527.91 at Abernathy, Macejkovic and Christiansen using card ending in ****3732 from account ***9443."
+        },
+        {
+          "date": "2024-12-08T16:41:50.881Z",
+          "type": "credit",
+          "amount": "654.16",
+          "description": "A withdrawal of ZMW 607.68 occurred at Cruickshank Group using a card ending in ****9567 for account ***0857."
+        },
+        {
+          "date": "2024-12-15T03:00:10.203Z",
+          "type": "credit",
+          "amount": "10.46",
+          "description": "payment of BND 434.65 at Gutkowski, Wolf and Rutherford charged to account ending in 0426 using card ending in ****8814."
+        },
+        {
+          "date": "2025-01-02T09:08:30.863Z",
+          "type": "debit",
+          "amount": "769.56",
+          "description": "deposit confirmed at Collier - Swaniawski for IDR 508.70, card ending in ****4876 associated with account ***2677."
+        },
+        {
+          "date": "2025-01-10T15:59:15.840Z",
+          "type": "credit",
+          "amount": "458.73",
+          "description": "Transaction alert: deposit at Ullrich - Schamberger using card ending ****0476 for an amount of PGK 244.70 on account ***6101."
+        },
+        {
+          "date": "2025-01-19T17:40:04.571Z",
+          "type": "debit",
+          "amount": "11.00",
+          "description": "A payment of NPR 400.52 occurred at Schaefer, Hahn and Collins using a card ending in ****5155 for account ***4645."
+        },
+        {
+          "date": "2025-01-20T20:23:17.705Z",
+          "type": "debit",
+          "amount": "6.88",
+          "description": "payment transaction at Goyette - Feeney using card ending with ****2286 for YER 430.49 in account ***1839."
+        },
+        {
+          "date": "2025-01-28T05:17:30.048Z",
+          "type": "debit",
+          "amount": "189.10",
+          "description": "You made a withdrawal of MGA 673.02 at Zemlak, Trantow and Veum using card ending in ****2439 from account ***5479."
+        },
+        {
+          "date": "2025-02-02T23:11:06.723Z",
+          "type": "credit",
+          "amount": "883.06",
+          "description": "A payment for MOP 142.31 was made at Mills, Herman and Cremin via card ending ****2688 on account ***9352."
+        },
+        {
+          "date": "2025-02-17T23:39:41.131Z",
+          "type": "credit",
+          "amount": "97.17",
+          "description": "A withdrawal of SLE 41.21 occurred at Crona - Carter using a card ending in ****2071 for account ***3311."
+        },
+        {
+          "date": "2025-02-22T12:42:33.795Z",
+          "type": "debit",
+          "amount": "801.14",
+          "description": "You made a payment of MOP 770.57 at Casper Group using card ending in ****4566 from account ***1231."
+        },
+        {
+          "date": "2025-03-07T15:39:54.717Z",
+          "type": "debit",
+          "amount": "729.59",
+          "description": "Transaction alert: invoice at Mohr Inc using card ending ****2990 for an amount of COP 601.10 on account ***4812."
+        },
+        {
+          "date": "2025-03-17T03:53:18.536Z",
+          "type": "debit",
+          "amount": "88.76",
+          "description": "Payment of DZD 29.31 for deposit at McKenzie - Mertz, processed with card ending ****4666 linked to account ***9617."
+        },
+        {
+          "date": "2025-03-23T02:59:31.318Z",
+          "type": "credit",
+          "amount": "730.69",
+          "description": "You made a invoice of GIP 380.40 at Schulist and Sons using card ending in ****2163 from account ***5391."
+        },
+        {
+          "date": "2025-03-23T03:52:25.857Z",
+          "type": "debit",
+          "amount": "777.47",
+          "description": "deposit processed at Nicolas, Johnson and Lehner for DOP 896.53, using card ending ****0299. Account: ***3223."
+        },
+        {
+          "date": "2025-03-23T07:46:49.726Z",
+          "type": "credit",
+          "amount": "79.15",
+          "description": "A invoice of NIO 553.50 occurred at Quitzon Inc using a card ending in ****4875 for account ***7626."
+        },
+        {
+          "date": "2025-03-27T17:41:38.304Z",
+          "type": "debit",
+          "amount": "148.04",
+          "description": "Your invoice of MGA 719.74 at Anderson Group was successful. Charged via card ****2924 to account ***3490."
+        },
+        {
+          "date": "2025-04-02T17:24:09.203Z",
+          "type": "debit",
+          "amount": "508.51",
+          "description": "deposit confirmed at Barrows, Leuschke and Hane for GHS 75.70, card ending in ****7772 associated with account ***4615."
+        },
+        {
+          "date": "2025-04-04T20:11:40.704Z",
+          "type": "credit",
+          "amount": "32.93",
+          "description": "Transaction alert: withdrawal at Quigley - Raynor using card ending ****5639 for an amount of MKD 671.85 on account ***5549."
+        },
+        {
+          "date": "2025-04-07T04:29:07.965Z",
+          "type": "debit",
+          "amount": "130.16",
+          "description": "A withdrawal of NAD 32.18 occurred at Morar Group using a card ending in ****3615 for account ***5550."
+        },
+        {
+          "date": "2025-04-11T20:07:20.486Z",
+          "type": "debit",
+          "amount": "31.08",
+          "description": "A withdrawal for DJF 519.85 was made at Medhurst - Boyle via card ending ****7243 on account ***3309."
+        },
+        {
+          "date": "2025-04-21T12:25:34.940Z",
+          "type": "credit",
+          "amount": "247.64",
+          "description": "Your deposit of KWD 805.10 at Gerlach Inc was successful. Charged via card ****2303 to account ***9114."
+        },
+        {
+          "date": "2025-04-30T18:06:47.350Z",
+          "type": "credit",
+          "amount": "16.61",
+          "description": "Transaction alert: invoice at Barrows, Stark and Lueilwitz using card ending ****9169 for an amount of CZK 347.89 on account ***9500."
+        },
+        {
+          "date": "2025-05-03T22:57:59.519Z",
+          "type": "credit",
+          "amount": "593.77",
+          "description": "A payment of SSP 731.23 occurred at Padberg - Rogahn using a card ending in ****0325 for account ***0618."
+        },
+        {
+          "date": "2025-05-15T08:40:17.919Z",
+          "type": "debit",
+          "amount": "220.66",
+          "description": "withdrawal transaction at Brakus, Moore and Jacobi using card ending with ****1673 for BZD 608.58 in account ***4388."
+        },
+        {
+          "date": "2025-05-15T20:16:30.902Z",
+          "type": "credit",
+          "amount": "292.34",
+          "description": "Your withdrawal of SOS 409.22 at Hilpert, Kreiger and Leffler was successful. Charged via card ****8793 to account ***0824."
+        },
+        {
+          "date": "2025-05-16T05:12:13.831Z",
+          "type": "credit",
+          "amount": "162.87",
+          "description": "payment confirmed at Thiel and Sons for JOD 219.87, card ending in ****8753 associated with account ***4468."
+        },
+        {
+          "date": "2025-05-19T00:35:43.902Z",
+          "type": "debit",
+          "amount": "28.35",
+          "description": "Transaction alert: deposit at Heathcote - Swaniawski using card ending ****5325 for an amount of MVR 294.72 on account ***3828."
+        },
+        {
+          "date": "2025-05-21T06:45:34.795Z",
+          "type": "debit",
+          "amount": "282.34",
+          "description": "You made a payment of PGK 651.66 at Wisozk - Kunde using card ending in ****2005 from account ***4971."
+        },
+        {
+          "date": "2025-06-04T22:36:38.365Z",
+          "type": "debit",
+          "amount": "538.73",
+          "description": "A payment for ALL 740.50 was made at Kub Group via card ending ****4051 on account ***3609."
+        },
+        {
+          "date": "2025-06-23T05:36:42.057Z",
+          "type": "debit",
+          "amount": "789.30",
+          "description": "Payment of JOD 386.90 for deposit at Franecki - Rodriguez, processed with card ending ****1648 linked to account ***3227."
+        },
+        {
+          "date": "2025-06-27T14:18:39.055Z",
+          "type": "debit",
+          "amount": "366.96",
+          "description": "Your payment of XOF 176.81 at Barton - Kiehn was successful. Charged via card ****6468 to account ***5664."
+        },
+        {
+          "date": "2025-07-04T13:16:49.815Z",
+          "type": "debit",
+          "amount": "446.30",
+          "description": "A deposit for JMD 908.12 was made at Lang - Cassin via card ending ****3552 on account ***4452."
+        },
+        {
+          "date": "2025-08-07T05:47:43.005Z",
+          "type": "debit",
+          "amount": "125.14",
+          "description": "invoice transaction at Christiansen - Dickinson using card ending with ****1282 for RSD 84.71 in account ***3460."
+        },
+        {
+          "date": "2025-08-09T23:01:12.547Z",
+          "type": "credit",
+          "amount": "753.99",
+          "description": "invoice at Rogahn, Breitenberg and Nolan with a card ending in ****7680 for LKR 18.12 from account ***7010."
+        },
+        {
+          "date": "2025-08-13T23:59:49.987Z",
+          "type": "debit",
+          "amount": "376.44",
+          "description": "invoice of WST 43.36 at Schaefer, Harris and Welch charged to account ending in 3785 using card ending in ****2267."
+        },
+        {
+          "date": "2025-08-17T06:53:37.123Z",
+          "type": "debit",
+          "amount": "244.13",
+          "description": "Your deposit of AWG 511.05 at Breitenberg and Sons was successful. Charged via card ****3611 to account ***3707."
+        },
+        {
+          "date": "2025-09-02T16:39:50.459Z",
+          "type": "debit",
+          "amount": "912.91",
+          "description": "You made a invoice of JOD 732.22 at Jacobs LLC using card ending in ****9484 from account ***5573."
+        },
+        {
+          "date": "2025-09-22T10:01:45.426Z",
+          "type": "credit",
+          "amount": "221.17",
+          "description": "Your invoice of AZN 256.71 at Ortiz, Ortiz and Ankunding was successful. Charged via card ****1607 to account ***5503."
+        },
+        {
+          "date": "2025-09-29T06:09:05.483Z",
+          "type": "credit",
+          "amount": "695.93",
+          "description": "A payment of KPW 436.13 occurred at Fisher LLC using a card ending in ****6825 for account ***6370."
+        }
+      ]
+    },
+    {
+      "bankName": "SBI",
+      "accountNumber": "8589126673",
+      "balance": "172.24",
+      "transactions": [
+        {
+          "date": "2024-10-03T05:43:15.851Z",
+          "type": "debit",
+          "amount": "178.22",
+          "description": "A invoice for TMT 352.52 was made at Williamson - Bogisich via card ending ****5406 on account ***6906."
+        },
+        {
+          "date": "2024-10-09T03:29:45.279Z",
+          "type": "debit",
+          "amount": "734.48",
+          "description": "invoice confirmed at Krajcik - Zulauf for OMR 700.02, card ending in ****9558 associated with account ***3778."
+        },
+        {
+          "date": "2024-10-16T08:59:35.711Z",
+          "type": "credit",
+          "amount": "37.04",
+          "description": "invoice of VES 177.96 at Weber Group charged to account ending in 2476 using card ending in ****4096."
+        },
+        {
+          "date": "2024-10-17T18:37:52.403Z",
+          "type": "debit",
+          "amount": "620.92",
+          "description": "deposit at Considine - Heller with a card ending in ****0817 for RON 554.91 from account ***1726."
+        },
+        {
+          "date": "2024-10-20T11:03:49.755Z",
+          "type": "credit",
+          "amount": "272.64",
+          "description": "Payment of ANG 182.31 for invoice at Ratke, Tremblay and Leffler, processed with card ending ****2480 linked to account ***2616."
+        },
+        {
+          "date": "2024-11-11T18:38:48.209Z",
+          "type": "debit",
+          "amount": "698.09",
+          "description": "A deposit for MZN 282.79 was made at Osinski, Parisian and Dickens via card ending ****1060 on account ***7857."
+        },
+        {
+          "date": "2024-11-17T09:26:21.252Z",
+          "type": "credit",
+          "amount": "550.60",
+          "description": "withdrawal transaction at Corwin and Sons using card ending with ****7815 for ERN 276.52 in account ***1338."
+        },
+        {
+          "date": "2024-11-19T15:12:10.738Z",
+          "type": "debit",
+          "amount": "921.00",
+          "description": "A deposit of MGA 771.48 occurred at Ebert and Sons using a card ending in ****5966 for account ***1143."
+        },
+        {
+          "date": "2024-11-21T07:14:40.766Z",
+          "type": "debit",
+          "amount": "101.57",
+          "description": "withdrawal of NPR 625.25 at Parisian and Sons charged to account ending in 3162 using card ending in ****4434."
+        },
+        {
+          "date": "2024-11-27T01:41:39.745Z",
+          "type": "credit",
+          "amount": "663.25",
+          "description": "deposit confirmed at Hamill, Ferry and Marquardt for THB 291.64, card ending in ****6285 associated with account ***0002."
+        },
+        {
+          "date": "2024-12-01T19:58:15.747Z",
+          "type": "credit",
+          "amount": "626.68",
+          "description": "deposit processed at Fay LLC for QAR 486.49, using card ending ****8306. Account: ***0208."
+        },
+        {
+          "date": "2024-12-06T01:23:46.462Z",
+          "type": "credit",
+          "amount": "873.33",
+          "description": "Your deposit of MAD 275.90 at Beier - Bode was successful. Charged via card ****2828 to account ***1277."
+        },
+        {
+          "date": "2024-12-07T04:12:14.199Z",
+          "type": "debit",
+          "amount": "918.77",
+          "description": "You made a withdrawal of BRL 260.77 at Yost - Jenkins using card ending in ****0802 from account ***1811."
+        },
+        {
+          "date": "2024-12-21T22:14:58.771Z",
+          "type": "credit",
+          "amount": "655.81",
+          "description": "Your deposit of ZWL 494.74 at Dare - Miller was successful. Charged via card ****3479 to account ***6466."
+        },
+        {
+          "date": "2024-12-26T13:58:25.495Z",
+          "type": "debit",
+          "amount": "13.31",
+          "description": "A invoice of EUR 325.81 occurred at Rempel - Kulas using a card ending in ****7623 for account ***0888."
+        },
+        {
+          "date": "2024-12-27T23:08:22.386Z",
+          "type": "credit",
+          "amount": "634.04",
+          "description": "withdrawal of AUD 597.21 at Macejkovic, Larkin and Lang charged to account ending in 8545 using card ending in ****7082."
+        },
+        {
+          "date": "2025-01-04T16:20:10.147Z",
+          "type": "debit",
+          "amount": "789.16",
+          "description": "Payment of ERN 597.35 for withdrawal at Gislason Group, processed with card ending ****6205 linked to account ***6912."
+        },
+        {
+          "date": "2025-01-05T02:19:51.306Z",
+          "type": "credit",
+          "amount": "372.42",
+          "description": "payment processed at Walter, O'Hara and Cummings for KWD 389.75, using card ending ****9521. Account: ***0314."
+        },
+        {
+          "date": "2025-01-19T15:12:16.444Z",
+          "type": "debit",
+          "amount": "829.22",
+          "description": "withdrawal confirmed at Bradtke Inc for XAF 177.19, card ending in ****4193 associated with account ***5528."
+        },
+        {
+          "date": "2025-02-01T12:14:57.120Z",
+          "type": "credit",
+          "amount": "436.14",
+          "description": "A deposit for BGN 850.77 was made at Skiles - Dickinson via card ending ****5062 on account ***1013."
+        },
+        {
+          "date": "2025-02-21T04:38:01.926Z",
+          "type": "credit",
+          "amount": "445.97",
+          "description": "Your withdrawal of XAF 832.37 at Botsford, Mann and Trantow was successful. Charged via card ****3865 to account ***8772."
+        },
+        {
+          "date": "2025-02-27T01:34:35.978Z",
+          "type": "debit",
+          "amount": "968.14",
+          "description": "invoice confirmed at Wiza and Sons for YER 682.47, card ending in ****5821 associated with account ***7722."
+        },
+        {
+          "date": "2025-03-12T23:25:19.935Z",
+          "type": "credit",
+          "amount": "876.22",
+          "description": "You made a payment of MVR 894.25 at Marvin - Corkery using card ending in ****4216 from account ***9723."
+        },
+        {
+          "date": "2025-03-27T06:28:03.966Z",
+          "type": "debit",
+          "amount": "920.65",
+          "description": "A withdrawal for VUV 278.28 was made at Wunsch, Dickens and Rath via card ending ****5979 on account ***0110."
+        },
+        {
+          "date": "2025-03-31T10:57:57.109Z",
+          "type": "credit",
+          "amount": "940.19",
+          "description": "A deposit of BND 228.44 occurred at Witting - Zieme using a card ending in ****5936 for account ***9032."
+        },
+        {
+          "date": "2025-04-01T04:37:30.894Z",
+          "type": "credit",
+          "amount": "577.12",
+          "description": "A payment for CRC 42.81 was made at Bergnaum - Zemlak via card ending ****6842 on account ***4985."
+        },
+        {
+          "date": "2025-04-10T13:49:11.489Z",
+          "type": "debit",
+          "amount": "70.43",
+          "description": "withdrawal of BAM 712.95 at Walter and Sons charged to account ending in 9604 using card ending in ****7967."
+        },
+        {
+          "date": "2025-04-10T22:00:03.138Z",
+          "type": "credit",
+          "amount": "754.79",
+          "description": "withdrawal transaction at Walsh, Bernier and Mosciski using card ending with ****7827 for TOP 189.24 in account ***0701."
+        },
+        {
+          "date": "2025-04-16T00:53:53.293Z",
+          "type": "credit",
+          "amount": "772.30",
+          "description": "Payment of VES 97.83 for withdrawal at Keebler - Upton, processed with card ending ****0142 linked to account ***3865."
+        },
+        {
+          "date": "2025-04-16T05:59:38.659Z",
+          "type": "debit",
+          "amount": "265.88",
+          "description": "Your invoice of BSD 470.95 at Rau Inc was successful. Charged via card ****0979 to account ***4315."
+        },
+        {
+          "date": "2025-04-19T11:53:14.711Z",
+          "type": "credit",
+          "amount": "750.64",
+          "description": "A deposit of KZT 633.78 occurred at Windler - Koss using a card ending in ****6706 for account ***0723."
+        },
+        {
+          "date": "2025-05-21T21:27:33.412Z",
+          "type": "debit",
+          "amount": "477.79",
+          "description": "withdrawal at Bartoletti Group with a card ending in ****6224 for CNY 449.46 from account ***0036."
+        },
+        {
+          "date": "2025-05-22T21:30:24.360Z",
+          "type": "debit",
+          "amount": "371.28",
+          "description": "payment at Mante and Sons with a card ending in ****3716 for KRW 139.98 from account ***3185."
+        },
+        {
+          "date": "2025-06-10T12:19:40.364Z",
+          "type": "credit",
+          "amount": "748.62",
+          "description": "withdrawal at Padberg, Welch and Becker with a card ending in ****6109 for KYD 777.71 from account ***2983."
+        },
+        {
+          "date": "2025-06-15T03:18:47.943Z",
+          "type": "debit",
+          "amount": "439.12",
+          "description": "payment of ALL 58.09 at Marvin - Toy charged to account ending in 2638 using card ending in ****7294."
+        },
+        {
+          "date": "2025-06-17T08:52:47.043Z",
+          "type": "debit",
+          "amount": "429.48",
+          "description": "deposit transaction at D'Amore, Kub and Kessler using card ending with ****4008 for NZD 492.58 in account ***0636."
+        },
+        {
+          "date": "2025-06-29T02:55:34.009Z",
+          "type": "credit",
+          "amount": "900.05",
+          "description": "Transaction alert: deposit at Leannon LLC using card ending ****2882 for an amount of SGD 580.37 on account ***3522."
+        },
+        {
+          "date": "2025-07-05T05:35:45.536Z",
+          "type": "credit",
+          "amount": "881.64",
+          "description": "Your payment of BOB 468.42 at Fadel Group was successful. Charged via card ****8748 to account ***6624."
+        },
+        {
+          "date": "2025-07-08T22:00:03.373Z",
+          "type": "debit",
+          "amount": "20.75",
+          "description": "Payment of SRD 642.60 for withdrawal at Doyle, Bednar and Goldner, processed with card ending ****3087 linked to account ***7955."
+        },
+        {
+          "date": "2025-07-08T23:33:51.929Z",
+          "type": "debit",
+          "amount": "405.65",
+          "description": "invoice transaction at Senger, Dietrich and Wiegand using card ending with ****0329 for NOK 245.88 in account ***3122."
+        },
+        {
+          "date": "2025-07-09T22:39:43.908Z",
+          "type": "debit",
+          "amount": "551.17",
+          "description": "withdrawal confirmed at Olson - Nienow for GNF 757.36, card ending in ****8930 associated with account ***2101."
+        },
+        {
+          "date": "2025-07-14T12:12:39.991Z",
+          "type": "credit",
+          "amount": "615.81",
+          "description": "Transaction alert: deposit at Bayer - Turner using card ending ****9586 for an amount of ZMW 496.86 on account ***3377."
+        },
+        {
+          "date": "2025-07-19T06:57:51.265Z",
+          "type": "debit",
+          "amount": "287.68",
+          "description": "payment confirmed at Osinski, Mohr and Ritchie for PGK 660.39, card ending in ****2717 associated with account ***1159."
+        },
+        {
+          "date": "2025-07-23T16:05:09.518Z",
+          "type": "debit",
+          "amount": "712.24",
+          "description": "Payment of MGA 913.68 for deposit at Romaguera, Grimes and Sporer, processed with card ending ****0662 linked to account ***2814."
+        },
+        {
+          "date": "2025-07-29T13:04:19.926Z",
+          "type": "debit",
+          "amount": "543.74",
+          "description": "Your withdrawal of MWK 717.20 at Grady and Sons was successful. Charged via card ****8847 to account ***2852."
+        },
+        {
+          "date": "2025-08-09T06:32:00.961Z",
+          "type": "credit",
+          "amount": "28.74",
+          "description": "withdrawal of KHR 401.71 at Connelly, Rohan and Brekke charged to account ending in 0905 using card ending in ****2301."
+        },
+        {
+          "date": "2025-08-15T19:55:48.581Z",
+          "type": "credit",
+          "amount": "411.36",
+          "description": "Your deposit of INR 836.81 at Lemke - Heaney was successful. Charged via card ****4671 to account ***7139."
+        },
+        {
+          "date": "2025-09-08T21:00:59.536Z",
+          "type": "credit",
+          "amount": "762.58",
+          "description": "payment confirmed at Koch - Kuvalis for KWD 22.66, card ending in ****1591 associated with account ***6997."
+        },
+        {
+          "date": "2025-09-25T12:36:52.538Z",
+          "type": "credit",
+          "amount": "158.17",
+          "description": "A payment for UYU 437.32 was made at Cruickshank, Lang and Powlowski via card ending ****6623 on account ***9812."
+        },
+        {
+          "date": "2025-09-30T05:21:10.990Z",
+          "type": "debit",
+          "amount": "326.28",
+          "description": "A payment for TRY 331.67 was made at Zulauf - Ziemann via card ending ****4070 on account ***3517."
+        }
+      ]
+    },
+    {
+      "bankName": "Axis",
+      "accountNumber": "3436360191",
+      "balance": "783.47",
+      "transactions": [
+        {
+          "date": "2024-10-07T16:33:48.203Z",
+          "type": "debit",
+          "amount": "261.01",
+          "description": "Payment of DJF 248.07 for deposit at Lemke - Greenholt, processed with card ending ****0545 linked to account ***9805."
+        },
+        {
+          "date": "2024-10-14T16:23:59.853Z",
+          "type": "credit",
+          "amount": "872.24",
+          "description": "Your invoice of PKR 937.52 at Goyette - Lang was successful. Charged via card ****5144 to account ***1062."
+        },
+        {
+          "date": "2024-10-22T03:54:35.214Z",
+          "type": "credit",
+          "amount": "846.86",
+          "description": "Payment of ISK 390.87 for invoice at Morissette - Schinner, processed with card ending ****0064 linked to account ***5673."
+        },
+        {
+          "date": "2024-11-03T11:40:04.046Z",
+          "type": "debit",
+          "amount": "830.18",
+          "description": "A withdrawal for DOP 48.33 was made at Kshlerin - Beier via card ending ****7636 on account ***9264."
+        },
+        {
+          "date": "2024-12-07T06:04:32.485Z",
+          "type": "credit",
+          "amount": "322.16",
+          "description": "payment transaction at McKenzie - Thiel using card ending with ****8858 for BND 336.30 in account ***6147."
+        },
+        {
+          "date": "2024-12-07T13:20:31.768Z",
+          "type": "credit",
+          "amount": "987.70",
+          "description": "invoice transaction at Shanahan - Dickens using card ending with ****9356 for AZN 230.90 in account ***6169."
+        },
+        {
+          "date": "2024-12-14T12:17:51.933Z",
+          "type": "debit",
+          "amount": "857.77",
+          "description": "payment at Beahan, Skiles and Roob with a card ending in ****9624 for KHR 187.94 from account ***5910."
+        },
+        {
+          "date": "2024-12-20T20:55:46.136Z",
+          "type": "credit",
+          "amount": "672.18",
+          "description": "Your payment of AOA 160.89 at Collins - Green was successful. Charged via card ****9962 to account ***2877."
+        },
+        {
+          "date": "2025-01-04T17:01:22.146Z",
+          "type": "debit",
+          "amount": "502.11",
+          "description": "Transaction alert: invoice at Tromp, Wiegand and Upton using card ending ****0805 for an amount of NOK 390.37 on account ***7106."
+        },
+        {
+          "date": "2025-01-08T15:47:46.578Z",
+          "type": "debit",
+          "amount": "166.39",
+          "description": "deposit of XCD 680.59 at Koch, Sauer and Carter charged to account ending in 1683 using card ending in ****0132."
+        },
+        {
+          "date": "2025-01-24T02:36:15.067Z",
+          "type": "debit",
+          "amount": "41.27",
+          "description": "A deposit of OMR 721.33 occurred at Hilpert Group using a card ending in ****6703 for account ***2097."
+        },
+        {
+          "date": "2025-02-09T06:07:55.558Z",
+          "type": "credit",
+          "amount": "440.74",
+          "description": "A withdrawal of TWD 635.25 occurred at Muller LLC using a card ending in ****3667 for account ***4743."
+        },
+        {
+          "date": "2025-02-12T10:25:45.597Z",
+          "type": "credit",
+          "amount": "292.02",
+          "description": "deposit confirmed at Gutkowski Group for PHP 593.47, card ending in ****5214 associated with account ***1848."
+        },
+        {
+          "date": "2025-02-13T13:43:07.050Z",
+          "type": "debit",
+          "amount": "455.00",
+          "description": "deposit at Beahan LLC with a card ending in ****3234 for SZL 466.86 from account ***9681."
+        },
+        {
+          "date": "2025-02-18T01:32:29.736Z",
+          "type": "debit",
+          "amount": "462.52",
+          "description": "withdrawal of THB 926.76 at Corwin, Weissnat and Maggio charged to account ending in 7463 using card ending in ****1006."
+        },
+        {
+          "date": "2025-02-25T23:07:38.066Z",
+          "type": "debit",
+          "amount": "628.56",
+          "description": "deposit at Casper - Corkery with a card ending in ****6067 for CDF 27.47 from account ***4073."
+        },
+        {
+          "date": "2025-02-26T12:59:34.112Z",
+          "type": "debit",
+          "amount": "473.73",
+          "description": "invoice at Kshlerin - Waelchi with a card ending in ****5852 for SLE 266.75 from account ***1922."
+        },
+        {
+          "date": "2025-02-26T13:54:51.098Z",
+          "type": "debit",
+          "amount": "800.61",
+          "description": "Your withdrawal of MVR 387.01 at Roberts - Grimes was successful. Charged via card ****6607 to account ***5596."
+        },
+        {
+          "date": "2025-03-14T19:02:35.099Z",
+          "type": "credit",
+          "amount": "401.70",
+          "description": "You made a deposit of PAB 428.76 at Dickens - Hoeger using card ending in ****4662 from account ***9590."
+        },
+        {
+          "date": "2025-03-19T18:16:44.803Z",
+          "type": "credit",
+          "amount": "177.08",
+          "description": "A deposit of NGN 505.31 occurred at Hermann, Jacobson and Terry using a card ending in ****2981 for account ***9034."
+        },
+        {
+          "date": "2025-03-21T15:39:24.666Z",
+          "type": "credit",
+          "amount": "214.51",
+          "description": "deposit processed at Ritchie - Schowalter for CAD 114.06, using card ending ****2729. Account: ***6137."
+        },
+        {
+          "date": "2025-03-24T09:45:10.895Z",
+          "type": "credit",
+          "amount": "566.34",
+          "description": "A deposit for INR 643.66 was made at Kiehn - Gerlach via card ending ****4548 on account ***8755."
+        },
+        {
+          "date": "2025-04-04T22:32:20.743Z",
+          "type": "debit",
+          "amount": "177.89",
+          "description": "deposit confirmed at Ziemann - Miller for MRU 120.55, card ending in ****9606 associated with account ***1720."
+        },
+        {
+          "date": "2025-04-23T01:56:35.046Z",
+          "type": "debit",
+          "amount": "122.54",
+          "description": "Your withdrawal of SDG 155.45 at Lang - Champlin was successful. Charged via card ****1629 to account ***2567."
+        },
+        {
+          "date": "2025-04-24T11:49:54.089Z",
+          "type": "credit",
+          "amount": "645.16",
+          "description": "You made a payment of NAD 75.97 at Johnson - Durgan using card ending in ****5438 from account ***8402."
+        },
+        {
+          "date": "2025-04-25T20:31:42.842Z",
+          "type": "credit",
+          "amount": "222.49",
+          "description": "A deposit for NGN 763.79 was made at Bernhard LLC via card ending ****7401 on account ***3094."
+        },
+        {
+          "date": "2025-05-19T20:36:13.586Z",
+          "type": "credit",
+          "amount": "687.38",
+          "description": "A payment for UGX 139.37 was made at Tromp Group via card ending ****4784 on account ***3452."
+        },
+        {
+          "date": "2025-05-29T04:16:51.582Z",
+          "type": "credit",
+          "amount": "620.24",
+          "description": "invoice transaction at Armstrong - O'Hara using card ending with ****7333 for SDG 467.22 in account ***2593."
+        },
+        {
+          "date": "2025-06-07T14:44:58.640Z",
+          "type": "credit",
+          "amount": "291.87",
+          "description": "A payment for AWG 50.85 was made at Bosco and Sons via card ending ****6437 on account ***4992."
+        },
+        {
+          "date": "2025-06-08T14:04:19.819Z",
+          "type": "credit",
+          "amount": "603.41",
+          "description": "payment processed at Powlowski, Hartmann and Kuhn for GTQ 328.96, using card ending ****2668. Account: ***2419."
+        },
+        {
+          "date": "2025-06-14T21:55:23.205Z",
+          "type": "debit",
+          "amount": "819.23",
+          "description": "A invoice of CRC 352.31 occurred at Koch Inc using a card ending in ****1316 for account ***7225."
+        },
+        {
+          "date": "2025-06-20T11:58:24.836Z",
+          "type": "credit",
+          "amount": "586.11",
+          "description": "Payment of TND 4.79 for payment at Price - Kshlerin, processed with card ending ****4579 linked to account ***3064."
+        },
+        {
+          "date": "2025-07-02T08:32:45.108Z",
+          "type": "credit",
+          "amount": "35.88",
+          "description": "payment transaction at Hodkiewicz - Barton using card ending with ****5409 for MKD 910.00 in account ***1491."
+        },
+        {
+          "date": "2025-07-08T12:55:52.193Z",
+          "type": "credit",
+          "amount": "541.94",
+          "description": "Transaction alert: payment at Weimann Group using card ending ****5315 for an amount of BMD 143.19 on account ***6393."
+        },
+        {
+          "date": "2025-07-08T20:02:36.820Z",
+          "type": "debit",
+          "amount": "568.03",
+          "description": "Transaction alert: invoice at Schneider - Fay using card ending ****7833 for an amount of SSP 947.43 on account ***2354."
+        },
+        {
+          "date": "2025-07-22T20:02:05.584Z",
+          "type": "debit",
+          "amount": "511.18",
+          "description": "deposit processed at King, Bogisich and Murray for LYD 742.65, using card ending ****1086. Account: ***9751."
+        },
+        {
+          "date": "2025-07-24T19:28:59.461Z",
+          "type": "credit",
+          "amount": "226.07",
+          "description": "invoice of MVR 859.97 at Prosacco - Hermiston charged to account ending in 0014 using card ending in ****0668."
+        },
+        {
+          "date": "2025-07-27T11:10:13.856Z",
+          "type": "debit",
+          "amount": "107.05",
+          "description": "Payment of MVR 941.96 for deposit at Metz, Welch and Zulauf, processed with card ending ****6512 linked to account ***0656."
+        },
+        {
+          "date": "2025-07-30T03:05:41.196Z",
+          "type": "debit",
+          "amount": "46.92",
+          "description": "deposit processed at Fritsch Group for DKK 571.81, using card ending ****7797. Account: ***4107."
+        },
+        {
+          "date": "2025-07-31T04:53:44.636Z",
+          "type": "debit",
+          "amount": "891.72",
+          "description": "invoice confirmed at O'Reilly Group for GEL 746.80, card ending in ****1388 associated with account ***9566."
+        },
+        {
+          "date": "2025-08-01T06:50:57.586Z",
+          "type": "debit",
+          "amount": "728.90",
+          "description": "deposit confirmed at Gislason - Kuhic for HTG 779.61, card ending in ****2638 associated with account ***1977."
+        },
+        {
+          "date": "2025-08-05T19:04:46.410Z",
+          "type": "debit",
+          "amount": "904.00",
+          "description": "Transaction alert: payment at Little, Glover and Paucek using card ending ****8246 for an amount of COP 901.76 on account ***4539."
+        },
+        {
+          "date": "2025-08-07T00:43:52.057Z",
+          "type": "credit",
+          "amount": "768.84",
+          "description": "Your payment of JOD 788.49 at Franecki, Hyatt and Legros was successful. Charged via card ****5245 to account ***1272."
+        },
+        {
+          "date": "2025-08-28T21:22:58.280Z",
+          "type": "debit",
+          "amount": "660.93",
+          "description": "withdrawal of LYD 303.04 at Durgan, Conn and Rempel charged to account ending in 0416 using card ending in ****5956."
+        },
+        {
+          "date": "2025-08-30T10:09:37.492Z",
+          "type": "credit",
+          "amount": "733.56",
+          "description": "withdrawal confirmed at Mayert - Nienow for XPF 677.04, card ending in ****9163 associated with account ***3037."
+        },
+        {
+          "date": "2025-09-02T10:25:55.887Z",
+          "type": "debit",
+          "amount": "151.80",
+          "description": "Payment of USD 673.46 for payment at Wiza, Prosacco and Nienow, processed with card ending ****2265 linked to account ***4042."
+        },
+        {
+          "date": "2025-09-06T06:33:44.138Z",
+          "type": "debit",
+          "amount": "474.78",
+          "description": "A withdrawal of CNY 285.78 occurred at Skiles, Anderson and Parisian using a card ending in ****3354 for account ***6116."
+        },
+        {
+          "date": "2025-09-19T00:44:33.531Z",
+          "type": "debit",
+          "amount": "456.16",
+          "description": "Your invoice of CUP 784.35 at Kohler, Bergnaum and Lehner was successful. Charged via card ****3871 to account ***0232."
+        },
+        {
+          "date": "2025-09-28T18:29:53.709Z",
+          "type": "credit",
+          "amount": "294.66",
+          "description": "A deposit for HUF 398.72 was made at Wiegand, Klocko and Emmerich via card ending ****6246 on account ***7383."
+        },
+        {
+          "date": "2025-09-28T20:11:36.848Z",
+          "type": "credit",
+          "amount": "486.81",
+          "description": "Your deposit of BTN 274.27 at Boyle, O'Connell and Gutkowski was successful. Charged via card ****5335 to account ***9214."
+        }
+      ]
+    }
+  ],
+  "creditScore": [
+    {
+      "date": "2024-11-26T02:27:17.611Z",
+      "score": 702
+    },
+    {
+      "date": "2024-12-15T03:59:57.181Z",
+      "score": 689
+    },
+    {
+      "date": "2024-12-15T17:02:54.063Z",
+      "score": 834
+    },
+    {
+      "date": "2024-12-18T14:15:46.189Z",
+      "score": 837
+    },
+    {
+      "date": "2024-12-30T10:38:01.006Z",
+      "score": 747
+    },
+    {
+      "date": "2025-01-25T18:35:57.921Z",
+      "score": 750
+    },
+    {
+      "date": "2025-02-09T10:18:27.343Z",
+      "score": 770
+    },
+    {
+      "date": "2025-03-02T22:30:46.762Z",
+      "score": 787
+    },
+    {
+      "date": "2025-03-26T16:18:22.476Z",
+      "score": 747
+    },
+    {
+      "date": "2025-05-06T11:53:37.638Z",
+      "score": 834
+    },
+    {
+      "date": "2025-07-14T21:47:32.353Z",
+      "score": 664
+    },
+    {
+      "date": "2025-07-17T12:23:37.357Z",
+      "score": 707
+    }
+  ],
+  "loans": [
+    {
+      "loanType": "Home Loan",
+      "principal": 1000000,
+      "interestRate": 7.5,
+      "startDate": "2024-10-25T07:25:34.837Z",
+      "endDate": "2026-04-23T01:05:10.698Z",
+      "monthlyEMI": 12500,
+      "outstandingAmount": 850000
+    }
+  ],
+  "mutualFunds": [
+    {
+      "fundName": "Cartwright, Huels and Kuvalis Growth Fund",
+      "units": 49.93168377600198,
+      "nav": 77.07112894306883,
+      "date": "2025-09-30T00:36:32.458Z"
+    },
+    {
+      "fundName": "Wolff Group Growth Fund",
+      "units": 43.84225878449688,
+      "nav": 102.85457600213265,
+      "date": "2025-09-29T12:42:40.231Z"
+    },
+    {
+      "fundName": "Hoeger Group Growth Fund",
+      "units": 26.078869290264905,
+      "nav": 211.82571085302,
+      "date": "2025-09-30T01:19:42.067Z"
+    },
+    {
+      "fundName": "Wyman, Kozey and Carroll Growth Fund",
+      "units": 16.553869161214454,
+      "nav": 244.25682971060115,
+      "date": "2025-09-30T06:40:39.685Z"
+    },
+    {
+      "fundName": "Carter - Bauch Growth Fund",
+      "units": 47.04907379681059,
+      "nav": 84.69837965381193,
+      "date": "2025-09-29T12:24:33.599Z"
+    },
+    {
+      "fundName": "Cummerata - Hagenes Growth Fund",
+      "units": 88.35534991376755,
+      "nav": 242.88199984707413,
+      "date": "2025-09-29T14:13:20.666Z"
+    },
+    {
+      "fundName": "Rau, Lockman and Jerde Growth Fund",
+      "units": 84.86355707333695,
+      "nav": 104.85397458196273,
+      "date": "2025-09-29T12:38:56.210Z"
+    },
+    {
+      "fundName": "Yundt, Robel and Heathcote Growth Fund",
+      "units": 42.935583048414635,
+      "nav": 238.1304269895861,
+      "date": "2025-09-30T03:38:35.700Z"
+    },
+    {
+      "fundName": "Weimann LLC Growth Fund",
+      "units": 30.117046314661483,
+      "nav": 115.52906082107428,
+      "date": "2025-09-29T08:01:08.642Z"
+    },
+    {
+      "fundName": "Crona, Balistreri and Kuvalis Growth Fund",
+      "units": 66.39546896181164,
+      "nav": 66.38348602757941,
+      "date": "2025-09-29T07:52:53.865Z"
+    }
+  ],
+  "stocks": [
+    {
+      "symbol": "TCS",
+      "quantity": 30,
+      "avgBuyPrice": 1941.0297386058419,
+      "currentPrice": 1233.5038012004993,
+      "date": "2025-09-29T15:21:05.695Z"
+    },
+    {
+      "symbol": "INFY",
+      "quantity": 47,
+      "avgBuyPrice": 2146.5900237071533,
+      "currentPrice": 2202.780239475546,
+      "date": "2025-09-30T03:34:24.489Z"
+    },
+    {
+      "symbol": "RELIANCE",
+      "quantity": 14,
+      "avgBuyPrice": 2812.2598646086326,
+      "currentPrice": 2447.691018998539,
+      "date": "2025-09-30T02:46:37.641Z"
+    },
+    {
+      "symbol": "HDFCBANK",
+      "quantity": 9,
+      "avgBuyPrice": 2462.7160447310066,
+      "currentPrice": 2034.1396718905457,
+      "date": "2025-09-29T16:04:46.101Z"
+    }
+  ],
+  "insurance": [
+    {
+      "policyName": "Life Shield",
+      "provider": "LIC",
+      "premium": 12000,
+      "coverageAmount": 1000000,
+      "startDate": "2025-09-08T15:37:38.186Z",
+      "endDate": "2025-10-15T15:09:01.251Z",
+      "type": "life"
+    },
+    {
+      "policyName": "Health Secure",
+      "provider": "Star Health",
+      "premium": 8000,
+      "coverageAmount": 500000,
+      "startDate": "2025-07-02T06:54:57.864Z",
+      "endDate": "2025-10-28T19:01:04.192Z",
+      "type": "health"
+    }
+  ]
+}

@@ -14,7 +14,7 @@ async def user_consent(user_id: str):
     try:
         # Load dummy data
         # data_path = os.path.join("./dummy_financial_data.json")
-        with open('dummy_financial_data.json', "r") as file:
+        with open('realistic_financial_data.json', "r") as file:
             data = json.load(file)
 
         # Encrypt data
@@ -37,4 +37,5 @@ async def user_consent(user_id: str):
         }
 
     except Exception as e:
+        print(str(e))
         raise HTTPException(status_code=500, detail=str(e))

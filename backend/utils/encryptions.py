@@ -7,7 +7,7 @@ import json
 
 # Use a fixed key stored in your .env or config
 # Must be 32 bytes for AES-256
-ENCRYPTION_KEY = os.environ.get("ENCRYPTION_KEY", os.urandom(32))
+ENCRYPTION_KEY = bytes.fromhex("b7895e2a9fef45c6ac8a42b19e10a81aef7bd4fd27a6d74250ab0f343f29b3cd")
 
 def encrypt_data(data: dict) -> dict:
     iv = os.urandom(16)
