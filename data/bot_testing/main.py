@@ -6,8 +6,7 @@ from langchain_cohere import CohereEmbeddings  # Changed to use Cohere embedding
 import os
 
 # 🔐 API Keys
-os.environ["COHERE_API_KEY"] = os.environ.get("COHERE_API_KEY", "msh4S9vXMamFt8Hhs7fjK8ZblfojN5EcntJZVL2D")  # You can set your Cohere API key as an environment variable
-os.environ["GROQ_API_KEY"] = "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"
+
 
 # ✅ Load saved Chroma vector DB (embedded with Cohere)
 embeddings = CohereEmbeddings(model="embed-multilingual-v3.0")  # Use a model that produces 1024-dimensional embeddings
