@@ -6,7 +6,7 @@ import faiss
 # === CONFIG ===
 JSON_FILE = "data\\bot\\dummy_financial_data.json"  # Your JSON file path
 COHERE_API_KEY = "msh4S9vXMamFt8Hhs7fjK8ZblfojN5EcntJZVL2D"
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "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
 CHUNK_SIZE = 500  # characters per chunk
 TOP_K = 3         # number of chunks to retrieve
 
